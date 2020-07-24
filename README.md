@@ -11,7 +11,7 @@ Water reminder bot for discord servers.
 
 ## Features
 
-- Water reminder every 10 minutes
+- Water reminder every 3(!?!?!) seconds 🔥🔥
 
 ## Roadmap
 
