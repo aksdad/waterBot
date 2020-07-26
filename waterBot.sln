@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "waterBot", "waterBot.csproj", "{058C52C0-CDF4-4865-A344-E21DE1ADDCA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058C52C0-CDF4-4865-A344-E21DE1ADDCA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058C52C0-CDF4-4865-A344-E21DE1ADDCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058C52C0-CDF4-4865-A344-E21DE1ADDCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058C52C0-CDF4-4865-A344-E21DE1ADDCA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2841DAAB-7F6A-464E-940D-A7CFF0E93D84}
+	EndGlobalSection
+EndGlobal
