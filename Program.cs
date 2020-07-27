@@ -35,9 +35,9 @@ namespace waterBot
 
         private async Task MessageReceived(SocketMessage msg)
         {
-            if (msg.Content == "!gimmewater")
+            if (msg.Content == Constants.UserMessage.GimmeWater)
             {
-                await msg.Channel.SendMessageAsync("/tts here's ur water u thirsty hoe 💦");
+                await msg.Channel.SendMessageAsync(Constants.UserResponses.HereIsYourWater);
             }
         }
     }
